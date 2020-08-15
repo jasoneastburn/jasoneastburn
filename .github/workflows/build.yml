@@ -31,17 +31,6 @@ jobs:
         CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
       run: |-
         Rscript -e "source('script.R')"
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: Install dependencies
-      run: |
-        npm ci
-    - name: Update README
-      run: |-
-        npm start
-        cat README.md
     - name: Commit and push if changed
       run: |-
         git add .
