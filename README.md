@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello, nerds</h1>
+<h2>Hello, nerds</h2>
 <hr>
-My name is Jason Eastburn and I am a Software Engineer in Kansas City, MO.  I enjoy designing and coding in a bunch of different technologies although I tend to gravitate towards Angular and mobile technologies.  As I build out projects that I can share, I will highlight them here on my profile.  You can always reach me on <a href="https://twitter.com/jasoneastburn">Twitter </a>.
+My name is Jason Eastburn and I am a Software Engineer in the Kansas City area.  I enjoy designing and coding in a bunch of different technologies although I tend to gravitate towards Angular and mobile technologies.  As I build out projects that I can share, I will highlight them here on my profile.  You can always reach me on <a href="https://twitter.com/jasoneastburn">Twitter</a>.
 
-<h1>Last Tweet</h1>
+<h2>Last Tweet</h2>
 <p><a href="https://www.twitter.com/jasoneastburn"><img src="https://github.com/jasoneastburn/jasoneastburn/blob/master/tweet.png" width="600"></a></p>
-<h1>GitHub Stats</h1>
+<h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=jasoneastburn&amp;show_icons=true" alt="GitHub Stats"></p>
