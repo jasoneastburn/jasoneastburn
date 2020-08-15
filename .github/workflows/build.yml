@@ -37,5 +37,5 @@ jobs:
         git diff
         git config --global user.email "jasoneastburn@gmail.com"
         git config --global user.name "jasoneastburn"
-        git commit -m "Updated README" -a || echo "No changes to commit"
+        git commit -m "updated README" -a || echo "No changes to commit"
         git push
