@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h2>Hello, nerds</h2>
 <hr>
 My name is Jason Eastburn and I am a Software Engineer in the Kansas City area.  I enjoy designing and coding in a bunch of different technologies although I tend to gravitate towards Angular and mobile technologies.  As I build out projects that I can share, I will highlight them here on my profile.  You can always reach me on <a href="https://twitter.com/jasoneastburn">Twitter</a>.
+<br/><br/>
 <blockquote>
 <em>I tell dad jokes but I have no kids. I’m a faux pa!</em>
 </blockquote>
