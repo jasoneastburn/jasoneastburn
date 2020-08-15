@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1>Last Tweet</h1>
+<p><a href="https://www.twitter.com/jasoneastburn"><img src="https://github.com/jasoneastburn/jasoneastburn/blob/master/tweet.png" width="600"></a></p>
