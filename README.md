@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jasoneastburn/jasoneastburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,5 @@ Here are some ideas to get you started:
 
 <h1>Last Tweet</h1>
 <p><a href="https://www.twitter.com/jasoneastburn"><img src="https://github.com/jasoneastburn/jasoneastburn/blob/master/tweet.png" width="600"></a></p>
+<h1>GitHub Stats</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jasoneastburn&amp;show_icons=true" alt="GitHub Stats"></p>
