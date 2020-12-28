@@ -24,4 +24,5 @@ My name is Jason Eastburn and I am a Software Engineer in the Kansas City area. 
 <h2>Last Tweet</h2>
 <p><a href="https://www.twitter.com/jasoneastburn"><img src="https://github.com/jasoneastburn/jasoneastburn/blob/master/tweet.png" width="600"></a></p>
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=jasoneastburn&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jasoneastburn&show_icons=true&count_private=true" alt="GitHub Stats"></p>
+<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p>
