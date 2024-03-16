@@ -1,28 +1,39 @@
-<!--
-**jasoneastburn/jasoneastburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2>Hello, nerds</h2>
 <hr>
-My name is Jason Eastburn and I am a Software Engineer in the Kansas City area.  I enjoy designing and coding in a bunch of different technologies although I tend to gravitate towards Angular and mobile technologies.  As I build out projects that I can share, I will highlight them here on my profile.  You can always reach me on <a href="https://twitter.com/jasoneastburn">Twitter</a>.
+My name is Jason Eastburn and I am a Software Engineer in the Kansas City area. I enjoy designing and coding in a bunch of different technologies although I tend to gravitate towards Angular and mobile technologies. As I build out projects that I can share, I will highlight them here on my profile.
 <br/><br/>
 <blockquote>
 <em>I tell dad jokes but I have no kids. I’m a faux pa!</em>
 </blockquote>
+<br/>
 
-<!--<h2>Last Tweet</h2>
-<p><a href="https://www.twitter.com/jasoneastburn"><img src="https://github.com/jasoneastburn/jasoneastburn/blob/master/tweet.png" width="600"></a></p>
-<h2>GitHub Stats</h2>-->
-<p><img src="https://github-readme-stats.vercel.app/api?username=jasoneastburn&show_icons=true&count_private=true" alt="GitHub Stats"></p>
+[![Twitter: jasoneastburn](https://img.shields.io/twitter/follow/jasoneastburn?style=social)](https://twitter.com/jasoneastburn)
+[![Linkedin: jasoneastburn](https://img.shields.io/badge/-jasoneastburn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasoneastburn/)](https://www.linkedin.com/in/jasoneastburn/)
+[![GitHub jasoneastburn](https://img.shields.io/github/followers/jasoneastburn?label=follow&style=social)](https://github.com/jasoneastburn)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://wwwjasoneastburn.com/)](https://www.jasoneastburn.com/)
+<br/>
+
+```javascript
+const jasoneastburn = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["mobile development", "web development", "engineering leadership", "tech", "finance", "gaming"],
+    technologies: {
+        code: ["Angular", "Javascript", "TypeScript", "Kotlin", ".NET/C#", "HTML", "CSS"],
+        mobileApp: {
+            hybrid: ["Ionic Framework"],
+            native: ["Android Studio", "Xcode"]
+        },
+        cloud: ["Firebase", "Azure"],
+        databases: ["MongoDB", "SQL", "SQLite"],
+        misc: ["Visual Studio Code", "Visual Studio", "Figma", "GitHub", "Windows", "MacOS"]
+    },
+    architecture: ["Serverless", "PWAs", "SPAs"],
+};
+```
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p>
