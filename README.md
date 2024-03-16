@@ -1,5 +1,4 @@
 <h2>Hello, nerds</h2>
-<hr>
 My name is Jason Eastburn and I am a Software Engineer in the Kansas City area. I enjoy designing and coding in a bunch of different technologies although I tend to gravitate towards Angular and mobile technologies. As I build out projects that I can share, I will highlight them here on my profile.
 <br/><br/>
 <blockquote>
@@ -16,7 +15,7 @@ My name is Jason Eastburn and I am a Software Engineer in the Kansas City area. 
 ```javascript
 const jasoneastburn = {
     pronouns: "He" | "Him",
-    askMeAbout: ["mobile development", "web development", "engineering leadership", "tech", "finance", "gaming"],
+    askMeAbout: ["Mobile Development", "Web Development", "Engineering Leadership", "Tech", "Finance", "Gaming"],
     technologies: {
         code: ["Angular", "Javascript", "TypeScript", "Kotlin", ".NET/C#", "HTML", "CSS"],
         mobileApp: {
