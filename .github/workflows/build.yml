@@ -13,7 +13,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }}
           GH_TOKEN: ${{ secrets.WAKA_GH_TOKEN }}
-          SECTION_NAME: "GitHub Stats"
           SHOW_SHORT_INFO: "True"
           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
           SHOW_TOTAL_CODE_TIME: "False"
@@ -28,4 +27,5 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_UPDATED_DATE: "True"
           LOCALE: "en"
