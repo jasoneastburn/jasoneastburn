@@ -24,6 +24,7 @@ const jasoneastburn = {
         },
         cloud: ["Firebase", "Azure"],
         databases: ["MongoDB", "SQL", "SQLite"],
+        learning: ["React", "NextJS", "Tailwind"],
         misc: ["Visual Studio Code", "Visual Studio", "Figma", "GitHub", "Windows", "MacOS"]
     },
     architecture: ["Serverless", "PWAs", "SPAs"],
