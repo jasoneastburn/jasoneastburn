@@ -37,6 +37,8 @@ const jasoneastburn = {
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
+> 🏆 29 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -73,8 +75,7 @@ Sunday                   3345 commits        ██████░░░░░�
 Other                    40 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zoom                     40 mins             █████████████████████████   99.96 % 
-Canva                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Zoom                     40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      40 mins             █████████████████████████   100.00 % 
@@ -93,7 +94,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/21/2024 18:37:24 UTC
+ Last Updated on 04/23/2024 18:37:27 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
