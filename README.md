@@ -72,14 +72,13 @@ Sunday                   3345 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   0 secs              ████████████████░░░░░░░░░   65.89 % 
-XML                      0 secs              █████████░░░░░░░░░░░░░░░░   34.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +94,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/30/2024 18:46:03 UTC
+ Last Updated on 05/31/2024 18:38:23 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
