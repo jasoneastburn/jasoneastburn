@@ -37,8 +37,6 @@ const jasoneastburn = {
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -72,16 +70,13 @@ Sunday                   3342 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   0 secs              ████████████████████░░░░░   80.70 % 
-MDX                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              ████████████████████░░░░░   80.73 % 
-VS Code                  0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +92,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/22/2025 18:43:36 UTC
+ Last Updated on 01/23/2025 18:42:46 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
