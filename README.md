@@ -19,10 +19,10 @@ const jasoneastburn = {
     technologies: {
         code: ["Angular", "Javascript", "TypeScript", "Kotlin", ".NET/C#", "HTML", "CSS"],
         mobileApp: {
-            hybrid: ["Ionic Framework"],
+            hybrid: ["Ionic Framework", NativeScript"],
             native: ["Android Studio", "Xcode"]
         },
-        cloud: ["Firebase", "Azure"],
+        cloud: ["Firebase", "Google Cloud", "Azure"],
         databases: ["MongoDB", "SQL", "SQLite"],
         learning: ["React", "NextJS", "Tailwind"],
         misc: ["Visual Studio Code", "Visual Studio", "Figma", "GitHub", "Windows", "MacOS"]
