@@ -45,42 +45,6 @@ const jasoneastburn = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1647 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-🌆 Daytime                4466 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌃 Evening                5352 commits        ██████████░░░░░░░░░░░░░░░   39.57 % 
-🌙 Night                  2061 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1316 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Tuesday                  1208 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Wednesday                943 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Thursday                 1403 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Friday                   2139 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Saturday                 3166 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Sunday                   3351 commits        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -94,7 +58,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2025 18:43:39 UTC
+ Last Updated on 11/03/2025 18:44:25 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
