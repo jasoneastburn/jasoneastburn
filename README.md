@@ -72,18 +72,13 @@ Sunday                   3355 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   1 hr 36 mins        ███████████████████░░░░░░   76.28 % 
-TOML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Java Properties          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 48 mins        ██████████████████████░░░   86.08 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +94,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/28/2026 18:56:51 UTC
+ Last Updated on 06/29/2026 19:18:14 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
