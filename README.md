@@ -33,6 +33,8 @@ const jasoneastburn = {
 <br/>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
@@ -86,6 +88,28 @@ Mac                      1 hr                ███████████�
 Windows                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 mins (13.17%)
+
+✍️ 0 lines written by AI, 73 lines written by hand (0.0% AI-written)
+
+🔤 33,183 Input Tokens, 177 Output Tokens
+
+💵 $0.10 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 192 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +123,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/26/2026 19:50:38 UTC
+ Last Updated on 07/27/2026 20:18:41 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
