@@ -33,8 +33,6 @@ const jasoneastburn = {
 <br/>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
@@ -74,24 +72,24 @@ Sunday                   3269 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   47 mins             ███████████████░░░░░░░░░░   58.77 % 
-TOML                     27 mins             ████████░░░░░░░░░░░░░░░░░   33.95 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Kotlin                   47 mins             ███████████████░░░░░░░░░░   58.81 % 
+TOML                     27 mins             ████████░░░░░░░░░░░░░░░░░   33.91 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Android Studio           58 mins             ██████████████████░░░░░░░   72.14 % 
-VS Code                  22 mins             ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+Android Studio           58 mins             ██████████████████░░░░░░░   72.17 % 
+VS Code                  22 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
 
 💻 Operating System: 
-Mac                      1 hr                ███████████████████░░░░░░   75.00 % 
-Windows                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Mac                      1 hr                ███████████████████░░░░░░   74.92 % 
+Windows                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (13.17%)
+⏱ AI Coding Time: 10 mins (13.16%)
 
 ✍️ 0 lines written by AI, 73 lines written by hand (0.0% AI-written)
 
@@ -123,7 +121,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/27/2026 20:18:41 UTC
+ Last Updated on 07/28/2026 20:13:35 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
