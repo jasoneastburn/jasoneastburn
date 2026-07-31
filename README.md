@@ -74,40 +74,20 @@ Sunday                   3269 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   47 mins             ███████████████░░░░░░░░░░   58.81 % 
-TOML                     27 mins             ████████░░░░░░░░░░░░░░░░░   33.91 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TOML                     0 secs              █████████████████████░░░░   82.18 % 
+Kotlin                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 
 🔥 Editors: 
-Android Studio           58 mins             ██████████████████░░░░░░░   72.17 % 
-VS Code                  22 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Android Studio           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr                ███████████████████░░░░░░   74.92 % 
-Windows                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (13.16%)
-
-✍️ 0 lines written by AI, 73 lines written by hand (0.0% AI-written)
-
-🔤 33,183 Input Tokens, 177 Output Tokens
-
-💵 $0.10 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 192 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +103,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/30/2026 20:09:23 UTC
+ Last Updated on 07/31/2026 20:08:55 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
