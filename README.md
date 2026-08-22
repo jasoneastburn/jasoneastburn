@@ -33,7 +33,7 @@ const jasoneastburn = {
 <br/>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,21 +50,21 @@ const jasoneastburn = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-🌆 Daytime                4360 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
-🌃 Evening                5213 commits        ██████████░░░░░░░░░░░░░░░   39.39 % 
-🌙 Night                  2037 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+🌞 Morning                1648 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+🌆 Daytime                4494 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌃 Evening                5400 commits        ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌙 Night                  2061 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1286 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  1182 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Wednesday                928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Thursday                 1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Friday                   2097 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Saturday                 3086 commits        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Sunday                   3269 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Monday                   1323 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Tuesday                  1210 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Wednesday                959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Thursday                 1417 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Friday                   2139 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Saturday                 3200 commits        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Sunday                   3355 commits        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
 ```
 
 
@@ -74,29 +74,30 @@ Sunday                   3269 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 5 mins        █████████████████░░░░░░░░   69.59 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Kotlin                   4 hrs 14 mins       █████████████████░░░░░░░░   67.43 % 
+Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 42 mins       ███████████████░░░░░░░░░░   60.91 % 
-VS Code                  1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   38.32 % 
-Canva                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Postman                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Android Studio           3 hrs 56 mins       ████████████████░░░░░░░░░   62.52 % 
+VS Code                  2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+Canva                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Postman                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      4 hrs 19 mins       ████████████████████████░   97.33 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Mac                      6 hrs 11 mins       █████████████████████████   98.11 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (4.06%)
+⏱ AI Coding Time: 10 mins (2.86%)
 
-✍️ 0 lines written by AI, 1,114 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,451 lines written by hand (0.0% AI-written)
 
 🔤 100,500 Input Tokens, 173 Output Tokens
 
@@ -110,7 +111,7 @@ Github-Copilot           2 lines             ███████████�
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 75 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.91% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +127,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/21/2026 18:55:11 UTC
+ Last Updated on 08/22/2026 18:49:21 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
