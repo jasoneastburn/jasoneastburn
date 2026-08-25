@@ -39,7 +39,7 @@ const jasoneastburn = {
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 91 Contributions in the Year 2026
+> 🏆 93 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,14 +51,14 @@ const jasoneastburn = {
 
 ```text
 🌞 Morning                1623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-🌆 Daytime                4360 commits        ████████░░░░░░░░░░░░░░░░░   32.92 % 
-🌃 Evening                5221 commits        ██████████░░░░░░░░░░░░░░░   39.42 % 
+🌆 Daytime                4360 commits        ████████░░░░░░░░░░░░░░░░░   32.91 % 
+🌃 Evening                5223 commits        ██████████░░░░░░░░░░░░░░░   39.43 % 
 🌙 Night                  2041 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1286 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Monday                   1288 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 Tuesday                  1182 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 Wednesday                928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 Thursday                 1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
@@ -74,28 +74,28 @@ Sunday                   3269 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 26 mins       ██████████████████░░░░░░░   72.42 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Kotlin                   8 hrs 36 mins       ███████████████████░░░░░░   75.41 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-Android Studio           5 hrs 59 mins       █████████████████░░░░░░░░   67.47 % 
-VS Code                  2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Android Studio           7 hrs 35 mins       █████████████████░░░░░░░░   66.46 % 
+VS Code                  3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
+Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Mac                      8 hrs 45 mins       █████████████████████████   98.66 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Mac                      11 hrs 18 mins      █████████████████████████   98.96 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (2.03%)
+⏱ AI Coding Time: 10 mins (1.58%)
 
-✍️ 0 lines written by AI, 2,195 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,895 lines written by hand (0.0% AI-written)
 
 🔤 100,500 Input Tokens, 173 Output Tokens
 
@@ -109,7 +109,7 @@ Github-Copilot           2 lines             ███████████�
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 75 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.95% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/24/2026 18:54:04 UTC
+ Last Updated on 08/25/2026 18:57:21 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
