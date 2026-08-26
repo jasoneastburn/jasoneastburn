@@ -39,7 +39,7 @@ const jasoneastburn = {
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2026
+> 🏆 94 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,18 +52,18 @@ const jasoneastburn = {
 ```text
 🌞 Morning                1623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 🌆 Daytime                4360 commits        ████████░░░░░░░░░░░░░░░░░   32.91 % 
-🌃 Evening                5223 commits        ██████████░░░░░░░░░░░░░░░   39.43 % 
+🌃 Evening                5224 commits        ██████████░░░░░░░░░░░░░░░   39.43 % 
 🌙 Night                  2041 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1288 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  1182 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Wednesday                928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Thursday                 1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Tuesday                  1183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Wednesday                928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Thursday                 1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 Friday                   2101 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Saturday                 3094 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Saturday                 3094 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 Sunday                   3269 commits        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
 ```
 
@@ -74,28 +74,28 @@ Sunday                   3269 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   8 hrs 36 mins       ███████████████████░░░░░░   75.41 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Kotlin                   11 hrs 30 mins      ████████████████████░░░░░   79.12 % 
+Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Android Studio           7 hrs 35 mins       █████████████████░░░░░░░░   66.46 % 
-VS Code                  3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Android Studio           10 hrs 18 mins      ██████████████████░░░░░░░   70.96 % 
+VS Code                  4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      11 hrs 18 mins      █████████████████████████   98.96 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Mac                      14 hrs 25 mins      █████████████████████████   99.18 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (1.58%)
+⏱ AI Coding Time: 10 mins (1.24%)
 
-✍️ 0 lines written by AI, 2,895 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,816 lines written by hand (0.0% AI-written)
 
 🔤 100,500 Input Tokens, 173 Output Tokens
 
@@ -109,7 +109,7 @@ Github-Copilot           2 lines             ███████████�
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 75 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.96% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/25/2026 18:57:21 UTC
+ Last Updated on 08/26/2026 19:29:16 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
