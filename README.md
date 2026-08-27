@@ -74,28 +74,27 @@ Sunday                   3269 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   11 hrs 30 mins      ████████████████████░░░░░   79.12 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Kotlin                   10 hrs 22 mins      ████████████████████░░░░░   81.84 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Android Studio           10 hrs 18 mins      ██████████████████░░░░░░░   70.96 % 
-VS Code                  4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Android Studio           9 hrs 19 mins       ██████████████████░░░░░░░   73.56 % 
+VS Code                  3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      14 hrs 25 mins      █████████████████████████   99.18 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Mac                      12 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (1.24%)
+⏱ AI Coding Time: 10 mins (1.42%)
 
-✍️ 0 lines written by AI, 3,816 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,323 lines written by hand (0.0% AI-written)
 
 🔤 100,500 Input Tokens, 173 Output Tokens
 
@@ -109,7 +108,7 @@ Github-Copilot           2 lines             ███████████�
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 75 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +124,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/26/2026 19:29:16 UTC
+ Last Updated on 08/27/2026 22:30:29 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
