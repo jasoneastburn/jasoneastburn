@@ -50,21 +50,21 @@ const jasoneastburn = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-🌆 Daytime                4360 commits        ████████░░░░░░░░░░░░░░░░░   32.91 % 
-🌃 Evening                5224 commits        ██████████░░░░░░░░░░░░░░░   39.43 % 
-🌙 Night                  2041 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+🌞 Morning                1648 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+🌆 Daytime                4494 commits        ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌃 Evening                5411 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌙 Night                  2065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1288 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  1183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Wednesday                928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Thursday                 1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Friday                   2101 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Saturday                 3094 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Sunday                   3269 commits        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Monday                   1325 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Tuesday                  1211 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Wednesday                959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Thursday                 1417 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Friday                   2143 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Saturday                 3208 commits        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Sunday                   3355 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
 ```
 
 
@@ -74,19 +74,18 @@ Sunday                   3269 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   8 hrs 25 mins       █████████████████████░░░░   82.44 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Kotlin                   7 hrs 15 mins       ██████████████████████░░░   87.54 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Java                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-Android Studio           7 hrs 36 mins       ███████████████████░░░░░░   74.58 % 
-VS Code                  2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Xcode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Android Studio           6 hrs 22 mins       ███████████████████░░░░░░   76.96 % 
+VS Code                  1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
 
 💻 Operating System: 
-Mac                      10 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,7 +107,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/28/2026 21:53:57 UTC
+ Last Updated on 08/29/2026 18:43:43 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
