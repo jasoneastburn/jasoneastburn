@@ -74,18 +74,18 @@ Sunday                   3355 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 15 mins       ██████████████████████░░░   87.54 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Java                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Kotlin                   5 hrs 4 mins        ██████████████████████░░░   89.39 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Android Studio           6 hrs 22 mins       ███████████████████░░░░░░   76.96 % 
-VS Code                  1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Android Studio           4 hrs 19 mins       ███████████████████░░░░░░   76.22 % 
+VS Code                  1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
 
 💻 Operating System: 
-Mac                      8 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,7 +107,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/29/2026 18:43:43 UTC
+ Last Updated on 08/30/2026 18:41:46 UTC
 <!--END_SECTION:waka-->
 
 <!--<pr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneastburn&langs_count=10&layout=compact"></p> -->
